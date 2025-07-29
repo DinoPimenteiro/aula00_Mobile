@@ -1,0 +1,6 @@
+Criação do ambiente de desenvolvimento
+1- Ter o emulador instalado;
+2- Ter o Node instalado;
+3- Selecionar uma pasta e criar o app com o comando: >npx create-expo-app@latest nomeDoApp --template
+4- Ir para a pasta e abrir o Vscode;
+5- Com a pasta selecioanda do terminal e aberta no vscode realizar o comando npm run android
